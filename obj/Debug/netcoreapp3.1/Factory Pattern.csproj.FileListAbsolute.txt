@@ -1,0 +1,14 @@
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Factory Pattern\obj\Debug\netcoreapp3.1\Factory Pattern.csproj.AssemblyReference.cache
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Factory Pattern\obj\Debug\netcoreapp3.1\Factory Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Factory Pattern\obj\Debug\netcoreapp3.1\Factory Pattern.AssemblyInfoInputs.cache
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Factory Pattern\obj\Debug\netcoreapp3.1\Factory Pattern.AssemblyInfo.cs
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Factory Pattern\obj\Debug\netcoreapp3.1\Factory Pattern.csproj.CoreCompileInputs.cache
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Factory Pattern\bin\Debug\netcoreapp3.1\Factory Pattern.exe
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Factory Pattern\bin\Debug\netcoreapp3.1\Factory Pattern.deps.json
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Factory Pattern\bin\Debug\netcoreapp3.1\Factory Pattern.runtimeconfig.json
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Factory Pattern\bin\Debug\netcoreapp3.1\Factory Pattern.runtimeconfig.dev.json
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Factory Pattern\bin\Debug\netcoreapp3.1\Factory Pattern.dll
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Factory Pattern\bin\Debug\netcoreapp3.1\Factory Pattern.pdb
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Factory Pattern\obj\Debug\netcoreapp3.1\Factory Pattern.dll
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Factory Pattern\obj\Debug\netcoreapp3.1\Factory Pattern.pdb
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Factory Pattern\obj\Debug\netcoreapp3.1\Factory Pattern.genruntimeconfig.cache
